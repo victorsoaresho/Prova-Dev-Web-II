@@ -6,7 +6,7 @@ Jogo criado para a prova da disciplina de Dev Web II do curso de desenvolvimento
 
 ## Link do jogo
 
-Você consegue jogar o game através do link:
+Você consegue jogar o game através do link: https://victorsoaresho.github.io/Prova-Dev-Web-II/Prova/index.html
 
 ## 🎁 Expressões de gratidão
 
