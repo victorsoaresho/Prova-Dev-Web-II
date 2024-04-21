@@ -16,4 +16,4 @@ Você consegue jogar o game através do link:
 * etc.
 
 ---
-⌨️ com ❤️ por [Victor]([https://github.com/victorsoaresho]) 😊
+⌨️ com ❤️ por [Victor][https://github.com/victorsoaresho] 😊
